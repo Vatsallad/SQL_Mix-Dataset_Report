@@ -13,11 +13,6 @@ Data Cleaning:
 - Conducted an initial review of all datasets to understand the structure and contents.
 - Performed data cleaning to rectify inconsistencies and ensure data accuracy and reliability.
 
-Specific Questions Addressed:
-  
-- Segmented datasets to focus on specific analysis questions.
-- Utilized diverse SQL functions to extract meaningful insights.
-
 SQL Functions Employed:
   
 - COUNT: To count the number of records meeting specific criteria.
