@@ -47,7 +47,7 @@ Data Integration:
 
  Conclusion:
  
-  Through the application of data cleaning, segmentation, and advanced SQL functions, significant insights were derived from the FIFA19 player data, digital media store records, and Netflix data. The use of various SQL functions, joins, sorting, and result set restrictions facilitated efficient and effective data analysis.
+   Through the application of data cleaning, segmentation, and advanced SQL functions, significant insights were derived from the FIFA19 player data, digital media store records, and Netflix data. The use of various SQL functions, joins, sorting, and result set restrictions facilitated efficient and effective data analysis.
 
 
 
